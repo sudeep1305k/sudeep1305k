@@ -1,17 +1,18 @@
 # Hi, I'm Sudeep 👋
 
-🚀 Successfully completed my internship on **Android App Development using Generative AI** with MindMatrix in collaboration with VTU.
+Software developer in Bangalore, building full stack web apps with React and Node.js, with Android (Kotlin, Jetpack Compose) experience.
 
-## Skills & Technologies
-- Kotlin
-- Jetpack Compose
-- Firebase
-- Google AI Studio
-- Android Studio
-- Generative AI
+## Projects
+- **[Kanban Board](https://github.com/sudeep1305k/kanban-board)**: task board with login, drag and drop and search (React, Express, SQLite, JWT)
+- **[Realtime Chat App](https://github.com/sudeep1305k/realtime-chat-app)**: chat with rooms, live online users and typing indicators (React, Socket.IO, JWT)
 
-This internship helped me gain hands-on experience in Android app development and AI-powered applications.
+## Skills
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Backend:** Node.js, Express, REST APIs, JWT, SQLite
+- **Mobile:** Kotlin, Jetpack Compose, Firebase
+- **Tools:** Git, GitHub Actions, Android Studio, Google AI Studio
 
-📱 Looking forward to building more innovative mobile applications!
-<img width="537" height="758" alt="Screenshot 2026-05-18 073000" src="https://github.com/user-attachments/assets/2aa72cf1-3150-4fca-8fe1-143bf7881c01" />
+## Experience
+Completed an internship on **Android App Development using Generative AI** with MindMatrix in collaboration with VTU (Feb to May 2026).
 
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sudeep1305k2004)
